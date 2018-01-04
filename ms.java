@@ -1,2 +1,3 @@
-Hi every one
-How Are u?
+Hi
+How Are u
+All
