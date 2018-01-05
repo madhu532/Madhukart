@@ -1,10 +1,15 @@
 a=10
 b=20
+<<<<<<< HEAD
 c=30
 Hi to all
+=======
+
+Hi
+>>>>>>> dev_1.2.2
 How 
 Are You
 thats fine
 a=4
-b=5
+
 c=6
