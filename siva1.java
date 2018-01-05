@@ -4,6 +4,7 @@ public class Siva1
 {
 a=200
 a=20
+a=25 
 }
 b=12
 }
